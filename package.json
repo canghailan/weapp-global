@@ -1,0 +1,10 @@
+{
+  "name": "weapp-global",
+  "version": "1.0.1",
+  "description": "微信小程序global变量，可使webpack imports-loader加载npm包。\n如var _ = require('imports?define=>false,global=weapp-global!lodash');\nvar moment = require('imports?define=>false!moment');",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "huhao <415328529@qq.com>",
+  "license": "MIT"
+}
